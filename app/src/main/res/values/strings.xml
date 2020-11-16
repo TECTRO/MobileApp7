@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobileApp7</string>
+    <string name="Добавить">Добавить</string>
+    <string name="_1">Список 1</string>
+    <string name="_2">Список 2</string>
+    <string name="Перенести">Перенести</string>
+    <string name="Удалить">Удалить</string>
+</resources>
